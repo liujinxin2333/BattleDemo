@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"E:/BattleDemo/.vscode": true,
+		"E:/BattleDemo/Content": true,
+		"E:/BattleDemo/Intermediate": true
+	}
+}
