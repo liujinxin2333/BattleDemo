@@ -1,7 +1,15 @@
 {
 	"files.exclude": {
+		"E:/BattleDemo/.git": true,
 		"E:/BattleDemo/.vscode": true,
 		"E:/BattleDemo/Content": true,
-		"E:/BattleDemo/Intermediate": true
+		"E:/BattleDemo/DerivedDataCache": true,
+		"E:/BattleDemo/Intermediate": true,
+		"E:/BattleDemo/Saved": true,
+		"E:/BattleDemo/Plugins/lua_wrapper/Intermediate": true,
+		"E:/BattleDemo/Plugins/slua_unreal/cmake": true,
+		"E:/BattleDemo/Plugins/slua_unreal/External": true,
+		"E:/BattleDemo/Plugins/slua_unreal/Intermediate": true,
+		"E:/BattleDemo/Plugins/slua_unreal/Library": true
 	}
 }
